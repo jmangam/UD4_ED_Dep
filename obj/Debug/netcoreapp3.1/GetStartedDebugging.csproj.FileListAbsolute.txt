@@ -1,0 +1,14 @@
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.exe
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.deps.json
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.json
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.dev.json
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.dll
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.AssemblyReference.cache
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfoInputs.cache
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfo.cs
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.dll
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+G:\Mi unidad\Clase\Entornos de desarollo\tema 4\ProyectoVS\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.genruntimeconfig.cache
