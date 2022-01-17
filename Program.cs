@@ -7,7 +7,7 @@ class ArrayExample
         //se reserva memoria para los elementos de tipo char
         char[] letters = { 'f', 'r', 'e', 'd', ' ', 's', 'm', 'i', 't', 'h' };
         string name = "";
-        //le da el espacio suficiente para poder mostrar el mensaje que queremoss
+        //le da el espacio suficiente para poder mostrar el mensaje que queremos
         int[] a = new int[10];
         //bucle que se encarga de mostrar las letras 1 a 1 hasta que se completen todos los array de caracteres
         for (int i = 0; i < letters.Length; i++)
